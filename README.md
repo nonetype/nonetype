@@ -1,4 +1,17 @@
-### Hi there 👋
+## Wonyoung Jung (@nonetype)
+
+### 🔭 I’m currently working on ...
+  - [Diffense](https://blog.diffense.co.kr/about.html) (20.04 ~)
+### 🌱 I’m currently learning ...
+  - Finding 0-day
+  - Exploiting 1-day
+  - Fuzzings
+  - OS architectures
+  - Programming language
+    - Golang
+### 📫 How to reach me: ...
+  - Facebook: [https://www.facebook.com/nonetype.pwn](https://www.facebook.com/nonetype.pwn)
+  - Twitter: [https://twitter.com/nonetype_pwn](https://twitter.com/nonetype_pwn)
 
 <!--
 **nonetype/nonetype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
