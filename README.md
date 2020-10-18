@@ -8,7 +8,7 @@
 
 
 ### 🔭 I’m currently working on ...
-  - [Diffense](https://blog.diffense.co.kr/about.html) (20.04 ~)
+  - [Diffense](https://diffense.com/) (20.04 ~)
 ### 🌱 I’m currently learning ...
   - Finding 0-day
   - Exploiting 1-day
