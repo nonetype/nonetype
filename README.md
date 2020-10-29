@@ -18,7 +18,7 @@
     - Golang
 
 
-[![nonetype's github stats](https://github-readme-stats.vercel.app/api?username=nonetype)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=nonetype)](https://solved.ac/nonetype)
+[![nonetype's github stats](https://github-readme-stats.vercel.app/api?username=nonetype)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonetype)](https://solved.ac/nonetype)
 
 <!--
 **nonetype/nonetype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
