@@ -8,17 +8,20 @@
 
 
 ### 🔭 I’m currently working on ...
-  - [Diffense](https://diffense.com/) (20.04 ~)
+  - [Diffense](https://diffense.com/), as security researcher (20.04 ~)
+    - A cybersecurity company based in South Korea
+  - Undergraduate at Korea national university of transportation(KTNU)
 ### 🌱 I’m currently learning ...
-  - Finding 0-day
-  - Exploiting 1-day
+  - 0-day Hunting (Linux, Windows, etc..)
+  - 1-day Exploitation
   - Fuzzings
   - OS architectures
-  - Programming language
+  - Programming languages
     - Golang
 
 
-[![nonetype's github stats](https://github-readme-stats.vercel.app/api?username=nonetype)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonetype)](https://solved.ac/nonetype)
+<!--[![nonetype's github stats](https://github-readme-stats.vercel.app/api?username=nonetype)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=nonetype)](https://solved.ac/nonetype)
 
 <!--
 **nonetype/nonetype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
