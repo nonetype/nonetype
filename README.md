@@ -15,6 +15,7 @@
 - [Diffense](https://diffense.com/), as security researcher (20.04 ~)
   - A cybersecurity company based in South Korea
 - Undergraduate at Korea national university of transportation(KTNU)
+- See more on [here](https://nonetype.kr/about/)
 
 
 <!--[![nonetype's github stats](https://github-readme-stats.vercel.app/api?username=nonetype)](https://github.com/anuraghazra/github-readme-stats)-->
