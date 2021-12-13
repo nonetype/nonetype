@@ -12,7 +12,7 @@
 - Code something!
 
 ### 🔭 I’m currently working on ...
-- [Diffense](https://diffense.com/), as security researcher (20.04 ~)
+- [Diffense](https://diffense.com/), as security researcher (20.04 ~ 21.10)
   - A cybersecurity company based in South Korea
 - Undergraduate at Korea national university of transportation(KTNU)
 - See more on [here](https://nonetype.kr/about/)
