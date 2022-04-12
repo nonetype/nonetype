@@ -12,7 +12,7 @@
 - Code something!
 
 ### 🔭 CV
-- @[KAIST Hacking Lab](https://kaist-hacking.github.io/)
+- [@KAIST Hacking Lab](https://kaist-hacking.github.io/)
 - See more on [here](https://nonetype.kr/cv/)
 
 
